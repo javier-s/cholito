@@ -1,5 +1,7 @@
 # Cholito
 
+- Se ocupó esta plantilla [AdminLTE](https://adminlte.io/).
+
 ## Login
 
 - https://javier-s.github.io/cholito/login.html
